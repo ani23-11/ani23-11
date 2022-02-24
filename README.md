@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ani23-11&label=Profile%20views&color=0e75b6&style=flat" alt="ani23-11" /> </p>
 
-- 🔭 I’m currently working on [Game Of Quest](https://github.com/ani23-11/Game-Of-Quest)
+- 🔭 I’m currently working on [CHOICES](https://github.com/ani23-11/CHOICES.git)
 
 - 🌱 I’m currently learning **Python**
 
@@ -31,3 +31,4 @@
 <p align="center">
   <a href="https://github.com/ani23-11">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ani23-11&&theme=black-ice&background=060A0CD0" /></a></p>
+    
