@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ani23-11&label=Profile%20views&color=0e75b6&style=flat" alt="ani23-11" /> </p>
 
-- 🔭 I’m currently working on [F.Y.A.](https://github.com/ani23-11/F.Y.A..git)
+- 🏆 Recently won my first Hackathon - [DS HACK 2022](https://devfolio.co/projects/jigyaasu-4986)
 
 - 🌱 I’m currently learning **Python**
 
