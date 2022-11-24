@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://ani23-11.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio.aniketnigam2.repl.co/)
 
 - 📄 Know about my experiences [Download Resume](https://github.com/ani23-11/Resume/raw/main/Aniket%20Mishra%20Resume.pdf)
 
