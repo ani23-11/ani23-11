@@ -5,7 +5,7 @@
 
 - 🏆 Recently won my first Hackathon - [DS HACK 2022](https://devfolio.co/projects/jigyaasu-4986)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **C#**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio.aniketnigam2.repl.co/)
 
